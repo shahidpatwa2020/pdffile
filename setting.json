@@ -252,17 +252,6 @@
       "data-attribute":[
         {
           "name-attribute":"src",
-          "value-attribute":"https://pop.dojo.cc/5677.js"
-        }
-      ],
-      "data-innerHTML":"",
-      "position":"start"
-	 },
-    {
-      "name-element":"script",
-      "data-attribute":[
-        {
-          "name-attribute":"src",
           "value-attribute":"/assets/inject.js"
         }
       ],
